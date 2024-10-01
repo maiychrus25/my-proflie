@@ -18,7 +18,6 @@
 - 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">My Home</a>
 - 📝 I regularly write articles on [Dev.to](https://dev.to/100rabhcsmc)
 - 📫 Reach me at <strong>ninhkhuongpl@gmail.com</strong>
-- 📄 Know about my experiences: <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
 <h3 align="center">
@@ -28,22 +27,22 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; width: 80%; margin: auto; flex-wrap: nowrap;">
-    <div style="margin-top: 15px; margin-right: 40px;">
+    <div style="margin-top: 15px;">
       <a target="_blank" href="https://www.linkedin.com/">
         <img src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" width="40" height="40">
       </a>
     </div>
-    <div style="margin-top: 15px; margin-right: 40px;">
+    <div style="margin-top: 15px;">
       <a target="_blank" href="https://github.com/maiychrus25/">
         <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="40" height="40">
       </a>
     </div>
-    <div style="margin-top: 15px; margin-right: 40px;">
+    <div style="margin-top: 15px;">
       <a target="_blank" href="https://www.instagram.com/khuong.ninh.963/">
         <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40" height="40">
       </a>
     </div>
-    <div style="margin-top: 15px; margin-right: 40px;">
+    <div style="margin-top: 15px;">
       <a target="_blank" href="https://www.tiktok.com/@ninhkhuong.05">
         <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="40" height="40">
       </a>
