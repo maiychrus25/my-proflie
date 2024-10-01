@@ -27,7 +27,7 @@
 </h3>
 
 <p align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
+  <div style="display: flex; justify-content: center; align-items: center; width: 80%; margin: auto; flex-wrap: nowrap;">
     <div style="margin-top: 15px; margin-right: 40px;">
       <a target="_blank" href="https://www.linkedin.com/">
         <img src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" width="40" height="40">
