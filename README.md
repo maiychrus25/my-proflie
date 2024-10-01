@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">MAIY 07!!!</a></h1> <h3 align="center">🌱 Currently studying at ICTU &#127470;&#127475;</h3> <a align="right"> <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> </a>
-🔭 Working at <a href="https://phoenix.tech/griffyn/" target="blank">My Home</a>
-📝 Writing on Dev.to
-📫 Reach me at ninhkhuongpl@gmail.com
-<h3 align="center">Connect with me 🤝</h3> <p align="center"> <div class="icons-social"> <a href="https://www.linkedin.com/in/saurabhmchavan/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a> <a href="https://github.com/100rabhcsmc" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a> <a href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a> <a href="https://dev.to/100rabhcsmc" target="_blank"><img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a> <a href="https://instagram.com/100rabhch" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> <a href="https://twitter.com/100rabhcsmc" target="_blank"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a> <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank"><img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a> <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank"><img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a> </div> </p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>🔭 Working at My Home</p>
+    <p>📝 Writing on Dev.to</p>
+    <p>📫 Reach me at <a href="mailto:ninhkhuongpl@gmail.com">ninhkhuongpl@gmail.com</a></p>
+  </div>
+  <div style="flex: 1;">
+    <img height="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%;">
+  </div>
+</div>
