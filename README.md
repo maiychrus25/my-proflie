@@ -26,7 +26,7 @@
 <p align="center">
   <div align="center" class="icons-social" style="display: flex; justify-content: space-between; width: 80%;">
     <a style="margin: 10px;" target="_blank" href="https://www.linkedin.com/">
-      <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000">
+      <img src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000">
     </a>
     <a style="margin: 10px;" target="_blank" href="https://github.com/maiychrus25/">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
