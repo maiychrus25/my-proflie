@@ -26,23 +26,23 @@
 </h3>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; width: 80%; margin: auto; flex-wrap: nowrap;">
-    <div style="margin-top: 15px;">
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: auto;">
+    <div>
       <a target="_blank" href="https://www.linkedin.com/">
         <img src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" width="40" height="40">
       </a>
     </div>
-    <div style="margin-top: 15px;">
+    <div>
       <a target="_blank" href="https://github.com/maiychrus25/">
         <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="40" height="40">
       </a>
     </div>
-    <div style="margin-top: 15px;">
+    <div>
       <a target="_blank" href="https://www.instagram.com/khuong.ninh.963/">
         <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40" height="40">
       </a>
     </div>
-    <div style="margin-top: 15px;">
+    <div>
       <a target="_blank" href="https://www.tiktok.com/@ninhkhuong.05">
         <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="40" height="40">
       </a>
