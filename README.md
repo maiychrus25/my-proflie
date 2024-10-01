@@ -24,19 +24,28 @@
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
 
 <p align="center">
-  <div align="center" class="icons-social" style="display: flex; justify-content: space-between; width: 80%;">
-    <a style="margin-top: 15px; margin-right: 40px;" target="_blank" href="https://www.linkedin.com/">
-      <img src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" width="40" height="40">
-    </a>
-    <a style="margin-top: 15px; margin-right: 40px;" target="_blank" href="https://github.com/maiychrus25/">
-      <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="40" height="40">
-    </a>
-    <a style="margin-top: 15px; margin-right: 40px;" target="_blank" href="https://www.instagram.com/khuong.ninh.963/">
-      <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40" height="40">
-    </a>
-    <a style="margin-top: 15px; margin-right: 40px;" target="_blank" href="https://www.tiktok.com/@ninhkhuong.05">
-      <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="40" height="40">
-    </a>
+  <div style="display: flex; justify-content: space-between; width: 80%; margin: auto;">
+    <div style="margin-top: 15px; margin-right: 40px;">
+      <a target="_blank" href="https://www.linkedin.com/">
+        <img src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" width="40" height="40">
+      </a>
+    </div>
+    <div style="margin-top: 15px; margin-right: 40px;">
+      <a target="_blank" href="https://github.com/maiychrus25/">
+        <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="40" height="40">
+      </a>
+    </div>
+    <div style="margin-top: 15px; margin-right: 40px;">
+      <a target="_blank" href="https://www.instagram.com/khuong.ninh.963/">
+        <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40" height="40">
+      </a>
+    </div>
+    <div style="margin-top: 15px; margin-right: 40px;">
+      <a target="_blank" href="https://www.tiktok.com/@ninhkhuong.05">
+        <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="40" height="40">
+      </a>
+    </div>
   </div>
 </p>
+
 
