@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 MAIY 07!!!</a></h1>
-<h3 align="center">A Student In Information Technology &#127470;&#127475</h3>
+<h3 align="center">🌱 I’m currently studying in ICTU. &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -12,7 +12,6 @@ MAIY 07!!!</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">My Home</a>
 
-- 🌱 I’m currently studying in ICTU.
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
 - 📫 How to reach me **ninhkhuongpl@gmail.com**
