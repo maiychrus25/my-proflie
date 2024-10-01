@@ -18,8 +18,3 @@ MAIY 07!!!</a></h1>
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://source-profile-psi.vercel.app/" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
-  <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://source-profile-psi.vercel.app/">
-  </a>
-</h3>
