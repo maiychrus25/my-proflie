@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href=https://www.tiktok.com/@ninhkhuong.05" target="blank">
+  <a href="https://www.tiktok.com/@ninhkhuong.05" target="blank">
     <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" />
   </a>
 </p>
@@ -25,29 +25,17 @@
 
 <p align="center">
   <div align="center" class="icons-social" style="display: flex; justify-content: space-between; width: 80%;">
-    <a style="margin: 10px;" target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    <a style="margin: 10px;" target="_blank" href="https://www.linkedin.com/">
+      <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000">
     </a>
-    <a style="margin: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+    <a style="margin: 10px;" target="_blank" href="https://github.com/maiychrus25/">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
-    <a style="margin: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+    <a style="margin: 10px;" target="_blank" href="https://www.instagram.com/khuong.ninh.963/">
+      <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000">
     </a>
-    <a style="margin: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-      <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
-    </a>
-    <a style="margin: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-    </a>
-    <a style="margin: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
-    </a>
-    <a style="margin: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-      <img src="https://img.icons8.com/doodle/1x/youtube--v2.png">
-    </a>
-    <a style="margin: 10px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-      <img src="https://img.icons8.com/plasticine/0.5x/resume.png">
+    <a style="margin: 10px;" target="_blank" href="https://www.tiktok.com/@ninhkhuong.05">
+      <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000">
     </a>
   </div>
 </p>
