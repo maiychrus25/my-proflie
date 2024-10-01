@@ -12,7 +12,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="center" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="center" margin: auto height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">My Home</a>
