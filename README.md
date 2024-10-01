@@ -24,7 +24,7 @@
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
 
 <p align="center">
-  <div style="display: flex; justify-content: space-between; width: 80%; margin: auto;">
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
     <div style="margin-top: 15px; margin-right: 40px;">
       <a target="_blank" href="https://www.linkedin.com/">
         <img src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" width="40" height="40">
@@ -47,5 +47,6 @@
     </div>
   </div>
 </p>
+
 
 
