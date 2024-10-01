@@ -11,14 +11,13 @@
   </a>
 </p>
 
-<a target="_blank" align="center">
+<a target="_blank" align="left">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">My Home</a>
 - 📝 I regularly write articles on [Dev.to](https://dev.to/100rabhcsmc)
 - 📫 Reach me at <strong>ninhkhuongpl@gmail.com</strong>
-- 📄 Know about my experiences: <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
 <h3 align="center">
