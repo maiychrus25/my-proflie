@@ -51,24 +51,3 @@
     </a>
   </div>
 </p>
-
-<h3 align="center">Information Contact</h3>
-<div align="center" class="inner-socials">
-  <ul class="wrapper" style="list-style-type: none; padding: 0;">
-    <li class="icon facebook" style="display: inline-block; margin: 10px;">
-      <a href="https://www.facebook.com/khuong.ninh.963/" target="_blank">
-        <img src="https://img.icons8.com/doodle/40/000000/facebook--v2.png" alt="Facebook" />
-      </a>
-    </li>
-    <li class="icon instagram" style="display: inline-block; margin: 10px;">
-      <a href="https://www.instagram.com/khuong.ninh.963/" target="_blank">
-        <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
-      </a>
-    </li>
-    <li class="icon tiktok" style="display: inline-block; margin: 10px;">
-      <a href="https://www.tiktok.com/@ninhkhuong.05" target="_blank">
-        <img src="https://img.icons8.com/doodle/40/000000/tiktok--v1.png" alt="TikTok" />
-      </a>
-    </li>
-  </ul>
-</div>
